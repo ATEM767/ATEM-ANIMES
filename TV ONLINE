@@ -1,1 +1,10 @@
-
+<item>
+<title>TV ARACATI</title> <!-- Titulo -->
+<link>https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8</link> <!-- link do video-->
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg</thumbnail> <!-- Icon -->
+<genre>WEB TV</genre> <!-- Genero -->
+<info>TV ARACATI – CANAL WEB TV DE VARIEDADES.</info> <!-- Descrição -->
+<date>07.12.2011</date>  <!-- formato - dd.mm.yyyy -->
+<epg></epg>  <!-- Lista de Programção EPG-->
+<fanart>http://fanart.jpg</fanart>
+</item>
